@@ -1,0 +1,38 @@
+.container{
+    max-width: 1093px;
+    width: 100%;
+    height: 900px;
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:#242424;
+}
+
+.top{
+    padding-top: 106px;
+align-items: center;
+justify-content: center;
+text-align: center;
+}
+
+.top h1{
+    color: #FFFFFF;
+}
+
+.top p{
+    color: #7F7F7F;
+}
+
+#form{
+display: flex;
+width: 800px;
+margin: 50px auto;
+flex-direction: column;
+gap: 50px;
+padding-top: 60px;
+}
+
+label{
+color:#fff;
+align-items:center
+}
