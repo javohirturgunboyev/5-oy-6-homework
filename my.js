@@ -74,4 +74,10 @@ button && button.addEventListener('click', function(){
     user.style.borderRadius = '5px';
     user.style.marginTop = '10px';
 
+    name.value = ""
+    lastName.value = ""
+    phone.value = ""
+    email.value = ""
+    password = ""
+    
 })
